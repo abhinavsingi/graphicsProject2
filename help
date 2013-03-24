@@ -1,0 +1,23 @@
+controls - 
+
+keyboard-
+	j - move front
+	m - move back
+	n - turn left
+	k - turn right
+	q-p,z,x - different views
+	b - boost
+	0 - automatic/manual transmission
+	1-5 - gears
+	left - zoom +
+	right - zoom -
+	up - height +
+	down - height -
+	ESC - escape the game
+
+mouse - 
+	only in helicopter and balloon
+	 scroll up and down to zoom in and zoom out
+
+-move in predefined track
+-crowd is present
